@@ -1,0 +1,1 @@
+This is a project command. Generate a based on the changes with the current branch. The commit message must be short and to-the-point and provide a summary of the changes. Then commit those messages to the current branch.
